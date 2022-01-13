@@ -16,7 +16,7 @@ const Index = ({ courses }) => {
   return (
     <>
       <h1 className="jumbotron text-center bg-primary square">
-        Online Education Marketplace
+        Video Portal Marketplace
       </h1>
       <div className="container-fluid">
         <div className="row">
